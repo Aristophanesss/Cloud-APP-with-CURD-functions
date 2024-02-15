@@ -1,0 +1,22 @@
+{
+  "name": "xueche_assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "@google-cloud/datastore": "^6.2.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "google-gax": "^2.9.2",
+    "json-to-html": "^0.1.2",
+    "jsonwebtoken": "^9.0.0",
+    "jwks-rsa": "^1.6.0",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
